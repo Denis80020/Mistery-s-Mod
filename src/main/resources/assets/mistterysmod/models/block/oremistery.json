@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mistterysmod:blocks/ore_mistery_texture_block",
+    "up": "mistterysmod:blocks/ore_mistery_texture_block",
+    "north": "mistterysmod:blocks/ore_mistery_texture_block",
+    "east": "mistterysmod:blocks/ore_mistery_texture_block",
+    "south": "mistterysmod:blocks/ore_mistery_texture_block",
+    "west": "mistterysmod:blocks/ore_mistery_texture_block",
+    "particle": "mistterysmod:blocks/ore_mistery_texture_block"
+  }
+}

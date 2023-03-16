@@ -1,0 +1,11 @@
+{
+  "group": "mistterysmod",
+  "type": "minecraft:smelting",
+  "experience": 2,
+  "ingredient": {
+    "item": "mistterysmod:oremistery"
+  },
+  "result": {
+    "item": "mistterysmod:fragmentcorrupted"
+  }
+}

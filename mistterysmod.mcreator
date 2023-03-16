@@ -1,0 +1,96 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Blocksmistery",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Oremistery",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Itemsmistery",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Fragmentcorrupted",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Fragmentcorruptedobteng",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Fragment",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Fragmentobting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "Energy",
+      "type": "number",
+      "scope": "map",
+      "value": "100"
+    }
+  ],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabblocksmistery": "Blocksmistery",
+      "item.mistterysmod.fragmentcorrupted": "Fragmentcorrupted",
+      "itemGroup.tabitemsmistery": "Itemsmistery",
+      "item.mistterysmod.fragment": "Fragment",
+      "block.mistterysmod.oremistery": "Oremistery"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "mistterysmod",
+    "modName": "Misttery\u0027s Mod",
+    "version": "1.0.0",
+    "author": "MARA2, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.14.4",
+    "modElementsPackage": "net.mcreator.mistterysmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}
