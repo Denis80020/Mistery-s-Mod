@@ -1,7 +1,8 @@
 {
-  "itemGroup.tabblocksmistery": "Blocksmistery",
-  "item.mistterysmod.fragmentcorrupted": "Fragmentcorrupted",
-  "itemGroup.tabitemsmistery": "Itemsmistery",
+  "item.mistterysmod.fragment_corrupted": "Fragment corrupted",
+  "itemGroup.tabblocks_mistery": "Blocks mistery",
+  "block.mistterysmod.funsedr": "Funsedr",
+  "itemGroup.tabitems_mistery": "Items mistery",
   "item.mistterysmod.fragment": "Fragment",
-  "block.mistterysmod.oremistery": "Oremistery"
+  "block.mistterysmod.ore_mistery": "Ore mistery"
 }

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mistterysmod:blocks/funsedr_front_back_main_texture_block",
+    "up": "mistterysmod:blocks/funsedr_top_texture_block",
+    "north": "mistterysmod:blocks/funsedr_front_back_main_texture_block",
+    "east": "mistterysmod:blocks/funsedr_left_texture_block",
+    "south": "mistterysmod:blocks/funsedr_front_back_main_texture_block",
+    "west": "mistterysmod:blocks/funsedr_rigth_texture_block",
+    "particle": "mistterysmod:blocks/funsedr_front_back_main_texture_block"
+  }
+}

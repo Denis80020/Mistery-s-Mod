@@ -18,7 +18,7 @@ public class BlocksmisteryItemGroup extends MistterysModElements.ModElement {
 
 	@Override
 	public void initElements() {
-		tab = new ItemGroup("tabblocksmistery") {
+		tab = new ItemGroup("tabblocks_mistery") {
 			@OnlyIn(Dist.CLIENT)
 			@Override
 			public ItemStack createIcon() {

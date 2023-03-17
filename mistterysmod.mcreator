@@ -7,7 +7,8 @@
       "sortid": 1,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "registry_name": "blocks_mistery"
     },
     {
       "name": "Oremistery",
@@ -15,7 +16,8 @@
       "sortid": 2,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "registry_name": "ore_mistery"
     },
     {
       "name": "Itemsmistery",
@@ -23,7 +25,8 @@
       "sortid": 3,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "registry_name": "items_mistery"
     },
     {
       "name": "Fragmentcorrupted",
@@ -31,7 +34,8 @@
       "sortid": 3,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "registry_name": "fragment_corrupted"
     },
     {
       "name": "Fragmentcorruptedobteng",
@@ -56,6 +60,14 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "Funsedr",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [
@@ -69,19 +81,19 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "itemGroup.tabblocksmistery": "Blocksmistery",
-      "item.mistterysmod.fragmentcorrupted": "Fragmentcorrupted",
-      "itemGroup.tabitemsmistery": "Itemsmistery",
+      "item.mistterysmod.fragment_corrupted": "Fragment corrupted",
+      "itemGroup.tabblocks_mistery": "Blocks mistery",
+      "block.mistterysmod.funsedr": "Funsedr",
+      "itemGroup.tabitems_mistery": "Items mistery",
       "item.mistterysmod.fragment": "Fragment",
-      "block.mistterysmod.oremistery": "Oremistery"
+      "block.mistterysmod.ore_mistery": "Ore mistery"
     }
   },
   "workspaceSettings": {
     "modid": "mistterysmod",
     "modName": "Misttery\u0027s Mod",
-    "version": "1.0.0",
-    "author": "MARA2, MCreator",
-    "websiteURL": "https://mcreator.net",
+    "version": "0.0.1-alpha",
+    "author": "Daniels",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "requiredMods": [],
@@ -89,6 +101,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "1.14.4",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.mistterysmod",
     "lockBaseModFiles": false
   },

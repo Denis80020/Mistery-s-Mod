@@ -2,12 +2,12 @@
   "_fv": 6,
   "_type": "block",
   "definition": {
-    "texture": "ore_mistery_texture_block",
-    "textureTop": "ore_mistery_texture_block",
-    "textureLeft": "ore_mistery_texture_block",
-    "textureFront": "ore_mistery_texture_block",
-    "textureRight": "ore_mistery_texture_block",
-    "textureBack": "ore_mistery_texture_block",
+    "texture": "funsedr_front_back_main_texture_block",
+    "textureTop": "funsedr_top_texture_block",
+    "textureLeft": "funsedr_left_texture_block",
+    "textureFront": "funsedr_front_back_main_texture_block",
+    "textureRight": "funsedr_rigth_texture_block",
+    "textureBack": "funsedr_front_back_main_texture_block",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 0,
@@ -20,7 +20,7 @@
     "My": 1.0,
     "Mz": 1.0,
     "faceShape": "SOLID",
-    "name": "Ore mistery",
+    "name": "Funsedr",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
@@ -40,7 +40,7 @@
     "canProvidePower": false,
     "lightOpacity": 255,
     "material": {
-      "value": "ROCK"
+      "value": "ANVIL"
     },
     "tickRate": 10,
     "tickRandomly": false,
@@ -56,11 +56,11 @@
     "reactionToPushing": "NORMAL",
     "isNotColidable": false,
     "soundOnStep": {
-      "value": "STONE"
+      "value": "METAL"
     },
     "luminance": 0.0,
     "unbreakable": false,
-    "breakHarvestLevel": 2,
+    "breakHarvestLevel": 1,
     "spawnParticles": false,
     "particleToSpawn": {
       "value": "EXPLOSION_NORMAL"
@@ -82,17 +82,11 @@
     "blocksToReplace": [
       {
         "value": "Blocks.STONE"
-      },
-      {
-        "value": "Blocks.STONE#0"
-      },
-      {
-        "value": "Blocks.COAL_ORE"
       }
     ],
     "frequencyPerChunks": 10,
     "frequencyOnChunk": 16,
-    "minGenerateHeight": 63,
-    "maxGenerateHeight": 256
+    "minGenerateHeight": 0,
+    "maxGenerateHeight": 64
   }
 }

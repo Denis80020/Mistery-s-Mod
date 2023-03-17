@@ -3,11 +3,11 @@ loaderVersion="[28,)"
 
 [[mods]]
 modId="mistterysmod"
-version="1.0.0"
+version="0.0.1-alpha"
 displayName="Misttery's Mod"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
-authors="MARA2, MCreator"
+authors="Daniels"
 
 [[dependencies.mistterysmod]]
     modId="minecraft"

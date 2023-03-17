@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "fragment_corrupted_texture_item",
     "customModelName": "Normal",
-    "name": "Fragmentcorrupted",
+    "name": "Fragment corrupted",
     "creativeTab": {
       "value": "CUSTOM:Itemsmistery"
     },

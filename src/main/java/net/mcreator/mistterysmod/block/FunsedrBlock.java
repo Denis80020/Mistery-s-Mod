@@ -20,11 +20,11 @@ import java.util.List;
 import java.util.Collections;
 
 @MistterysModElements.ModElement.Tag
-public class OremisteryBlock extends MistterysModElements.ModElement {
-	@ObjectHolder("mistterysmod:ore_mistery")
+public class FunsedrBlock extends MistterysModElements.ModElement {
+	@ObjectHolder("mistterysmod:funsedr")
 	public static final Block block = null;
-	public OremisteryBlock(MistterysModElements instance) {
-		super(instance, 2);
+	public FunsedrBlock(MistterysModElements instance) {
+		super(instance, 7);
 	}
 
 	@Override
@@ -35,9 +35,9 @@ public class OremisteryBlock extends MistterysModElements.ModElement {
 	}
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).lightValue(0).harvestLevel(2)
+			super(Block.Properties.create(Material.ANVIL).sound(SoundType.METAL).hardnessAndResistance(1f, 10f).lightValue(0).harvestLevel(1)
 					.harvestTool(ToolType.PICKAXE));
-			setRegistryName("ore_mistery");
+			setRegistryName("funsedr");
 		}
 
 		@Override

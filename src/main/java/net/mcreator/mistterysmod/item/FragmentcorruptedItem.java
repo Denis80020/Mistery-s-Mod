@@ -12,7 +12,7 @@ import net.mcreator.mistterysmod.MistterysModElements;
 
 @MistterysModElements.ModElement.Tag
 public class FragmentcorruptedItem extends MistterysModElements.ModElement {
-	@ObjectHolder("mistterysmod:fragmentcorrupted")
+	@ObjectHolder("mistterysmod:fragment_corrupted")
 	public static final Item block = null;
 	public FragmentcorruptedItem(MistterysModElements instance) {
 		super(instance, 3);
@@ -25,7 +25,7 @@ public class FragmentcorruptedItem extends MistterysModElements.ModElement {
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
 			super(new Item.Properties().group(ItemsmisteryItemGroup.tab).maxStackSize(64));
-			setRegistryName("fragmentcorrupted");
+			setRegistryName("fragment_corrupted");
 		}
 
 		@Override

@@ -3,9 +3,9 @@
   "type": "minecraft:smelting",
   "experience": 2,
   "ingredient": {
-    "item": "mistterysmod:oremistery"
+    "item": "mistterysmod:ore_mistery"
   },
   "result": {
-    "item": "mistterysmod:fragmentcorrupted"
+    "item": "mistterysmod:fragment_corrupted"
   }
 }

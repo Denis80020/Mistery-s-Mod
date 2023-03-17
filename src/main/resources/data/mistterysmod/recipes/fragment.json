@@ -7,7 +7,7 @@
   ],
   "key": {
     "0": {
-      "item": "mistterysmod:fragmentcorrupted"
+      "item": "mistterysmod:fragment_corrupted"
     },
     "1": {
       "item": "minecraft:iron_nugget"
@@ -16,7 +16,7 @@
       "item": "minecraft:iron_nugget"
     },
     "3": {
-      "item": "mistterysmod:fragmentcorrupted"
+      "item": "mistterysmod:fragment_corrupted"
     }
   },
   "result": {
