@@ -31,7 +31,7 @@
     "destroyTool": "pickaxe",
     "affectedBySilkTouch": true,
     "customDrop": {
-      "value": ""
+      "value": "CUSTOM:Oremistery"
     },
     "dropAmount": 1,
     "isBeaconBase": false,

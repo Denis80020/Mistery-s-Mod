@@ -45,7 +45,7 @@ public class OremisteryBlock extends MistterysModElements.ModElement {
 			List<ItemStack> dropsOriginal = super.getDrops(state, builder);
 			if (!dropsOriginal.isEmpty())
 				return dropsOriginal;
-			return Collections.singletonList(new ItemStack(this, 1));
+			return Collections.singletonList(new ItemStack(OremisteryBlock.block, (int) (1)));
 		}
 	}
 }
